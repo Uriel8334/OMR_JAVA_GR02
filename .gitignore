@@ -1,0 +1,27 @@
+# Maven
+target/
+.m2/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# NetBeans
+nb-configuration.xml
+nbactions.xml
+
+# Otros
+.classpath
+.project
+.settings/
+*.log
