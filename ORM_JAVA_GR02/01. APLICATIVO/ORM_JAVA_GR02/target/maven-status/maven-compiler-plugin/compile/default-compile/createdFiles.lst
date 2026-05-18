@@ -1,0 +1,7 @@
+ec/edu/monster/modelo/Departamento.class
+ec/edu/monster/modelo/HibernateUtil.class
+ec/edu/monster/modelo/DepartamentoDAO.class
+ec/edu/monster/controlador/DepartamentoServlet.class
+com/mycompany/orm_java_gr02/resources/JakartaEE10Resource.class
+ec/edu/monster/modelo/Conexion.class
+com/mycompany/orm_java_gr02/JakartaRestConfiguration.class
